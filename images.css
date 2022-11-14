@@ -1,0 +1,8 @@
+.images-perso {
+  display: flex;
+  max-width: 500px;
+}
+
+.album {
+  max-width: 600px !important;
+}
